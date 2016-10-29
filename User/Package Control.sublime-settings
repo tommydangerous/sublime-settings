@@ -1,0 +1,40 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Babel",
+		"Better CoffeeScript",
+		"BlameHighlighter",
+		"CoffeeScriptHaml",
+		"FileBrowser",
+		"Git",
+		"GitGutter",
+		"HTML Mustache",
+		"HTML-CSS-JS Prettify",
+		"LESS",
+		"Markdown Preview",
+		"MoveTab",
+		"orgmode",
+		"Package Control",
+		"Path Tools",
+		"Predawn Twilight Theme",
+		"Pretty JSON",
+		"React Templates",
+		"RSpec",
+		"Sass",
+		"SCSS",
+		"SideBarEnhancements",
+		"SublimeLinter",
+		"SublimeLinter-contrib-eslint",
+		"SublimeLinter-rubocop",
+		"Swift for F*ing Sublime",
+		"Terminal",
+		"Terminal In Packages",
+		"Theme - Afterglow",
+		"Theme - Primer"
+	]
+}

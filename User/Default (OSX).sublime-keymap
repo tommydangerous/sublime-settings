@@ -1,0 +1,32 @@
+[
+  {
+    "keys": ["super+shift+c"],
+    "command": "advanced_new_file"
+  },
+  {
+    "keys": ["f1"],
+    "command": "dired",
+    "args": {
+      "immediate": true,
+      "other_group": "left",
+      "project": true,
+      "single_pane": true
+    }
+  },
+  {
+    "keys": ["alt+shift+7"],
+    "caption": "2 cols (full - 2)",
+    "command": "set_layout",
+    "args": {
+      "cols": [0.0, 0.5, 1.0],
+      "rows": [0.0, 0.5, 1.0],
+      "cells": [ [0, 0, 1, 2], [1, 0, 2, 1], [1, 1, 2, 2] ]
+    }
+  },
+  {
+    "keys": [
+      "alt+shift+p"
+    ],
+    "command": "recent_file_switcher"
+  }
+]

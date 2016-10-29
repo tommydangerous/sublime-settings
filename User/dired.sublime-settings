@@ -1,0 +1,22 @@
+{
+	"dired_header": true,
+	"dired_show_full_path": true,
+	"dired_show_parent": true,
+	"dired_to_copy":
+	[
+		"/Users/tommy_dang/Code/airlab-v2/repos/airbnb/app/models/magical_trips/mt_experience_description.rb",
+		"/Users/tommy_dang/Code/airlab-v2/repos/airbnb/app/models/magical_trips/mt_experience.rb",
+		"/Users/tommy_dang/Code/airlab-v2/repos/airbnb/app/models/magical_trips/mt_experience_detail.rb",
+		"/Users/tommy_dang/Code/airlab-v2/repos/airbnb/app/models/magical_trips/mt_curator_profile.rb",
+		"/Users/tommy_dang/Code/airlab-v2/repos/airbnb/app/models/magical_trips/mt_applicable_question.rb",
+		"/Users/tommy_dang/Code/airlab-v2/repos/airbnb/app/models/magical_trips/market_order.rb",
+		"/Users/tommy_dang/Code/airlab-v2/repos/airbnb/app/models/magical_trips/mt_experience_guest_profile.rb",
+		"/Users/tommy_dang/Code/airlab-v2/repos/airbnb/app/models/magical_trips/mt_amenity.rb"
+	],
+	"dired_to_move":
+	[
+	],
+	"font_face": "Menlo",
+	"font_size": 12,
+	"tab_size": 2
+}
